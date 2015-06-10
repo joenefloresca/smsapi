@@ -1,0 +1,21 @@
+
+h1 {
+  margin: 10px 0;
+  font-weight: 600;
+  letter-spacing: .075em;
+  text-transform: uppercase;
+  line-height: 1.5;
+  font-size: 3.5em;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+#container {
+	padding: 50px;
+	opacity: 0.9;
+}
+
+img {
+	padding: 10px;
+}
+
